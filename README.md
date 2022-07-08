@@ -1,4 +1,4 @@
-# Not-Otalama
+# Not Ortalama
 İf else yok
 
 
