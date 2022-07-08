@@ -1,5 +1,6 @@
 # Not Ortalama
 İf else yok
+www.patika.dev
 
 
          import java.util.Scanner;
