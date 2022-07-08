@@ -2,10 +2,10 @@
 İf else yok
 
 
-import java.util.Scanner;
+         import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) {
+         public class Main {
+         public static void main(String[] args) {
          int mat,kim,tur,tar,muz;
          Scanner ma1= new Scanner(System.in);
          System.out.println("Matematik notunuzu giriniz:");
